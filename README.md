@@ -6,5 +6,5 @@ Once the program computes the ant's path it prints out the final surface. Black 
 
 The grid size can be easily changed via the ROWSIZE macro. 
 
-
+TODO: Add an option to show all the intermediate steps of ant's path (or store them in a user specified file). 
  
